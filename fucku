@@ -20,7 +20,7 @@ local redzlib = {
 			["Color Stroke"] = Color3.fromRGB(200, 200, 200),  -- Azul con brillo sutil
 			["Color Theme"] = Color3.fromRGB(0, 0, 0),  -- Azul brillante intenso
 			["Color Text"] = Color3.fromRGB(200, 200, 200),  -- Blanco frío
-			["Color Dark Text"] = Color3.fromRGB(99, 32, 95)  -- Gris azulado claro
+			["Color Dark Text"] = Color3.fromRGB(230, 183, 14)  -- Gris azulado claro
 		},
 		Dark = {
 			["Color Hub 1"] = ColorSequence.new({
